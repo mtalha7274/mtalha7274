@@ -8,7 +8,6 @@ I build complete mobile products, app and backend, from scratch to production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ashraf-38702a213)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@mtalha7274)
-[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages?q=publisher%3Amtalha7274)
 [![Studio](https://img.shields.io/badge/Pocket_Micros-FF6B6B?style=flat&logoColor=white)](https://pocketmicros.com)
 
 </div>
