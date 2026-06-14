@@ -1,53 +1,69 @@
+<div align="center">
+
 # Talha Ashraf
 
-## 🌟 About Me
+**Flutter & NestJS Developer**
 
-Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutter** and **Python**. I love creating innovative solutions and exploring new technologies. My GitHub repository is a collection of my personal projects, collaborations, and contributions to the open-source community.
+I build complete mobile products, app and backend, from scratch to production.
 
-## 🚀 Skills and Technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ashraf-38702a213)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@mtalha7274)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages?q=publisher%3Amtalha7274)
+[![Studio](https://img.shields.io/badge/Pocket_Micros-FF6B6B?style=flat&logoColor=white)](https://pocketmicros.com)
 
-- **Languages:**
-  - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-- **Frameworks and Tools:**
-  - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  - ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
-
-
-## 📂 Repositories
-
-### Top Flutter Projects
-- **[mention_tag_text_field](https://github.com/mtalha7274/mention_tag_text_field)**
-  - A feature-rich Flutter application demonstrating best practices and advanced UI techniques.
-
-- **[Blockchain Decentralized Storage App](https://github.com/mtalha7274/Blockchain-Decentralized-Storage-App-Flutter)**
-  - A real-time chat application built with Flutter and Firebase.
- 
-- **[Tinder Clone](https://github.com/mtalha7274/Tinder-Clone-Flutter)**
-  - A real-time chat application built with Flutter and Firebase.
-
-### Top Python Projects
-- **[FastApi Chat App](https://github.com/mtalha7274/Chat-App-FastApi-Python)**
-  - A collection of useful Python scripts for automating everyday tasks.
-
-- **[Django E-commerce](https://github.com/mtalha7274/E-Commerce-Django-Python)**
-  - A full-featured e-commerce platform built with Django.
-
-## 📫 Get in Touch
-
-- **LinkedIn:** [talha-ashraf-38702a213](https://www.linkedin.com/in/talha-ashraf-38702a213/)
-- **Twitter:** [@mtalha7274](https://x.com/mtalha7274)
-- **Medium:** [@mtalha7274](https://medium.com/@mtalha7274)
-- **Email:** mtalha7274@gmail.com
-
-## 🌐 Let's Connect!
-
-Feel free to check out my repositories, leave a star ⭐, or fork a project to contribute! I'm always open to collaboration and learning new things. Let's create something amazing together!
+</div>
 
 ---
+
+## 📦 Independent Products
+
+| Product | What it does | Stack | Links |
+|---|---|---|---|
+| **Pocket Kitty** | Social community app for pet lovers | Flutter, Supabase, Firebase | [App Store](https://apps.apple.com/us/app/pocket-kitty-pets-community/id6760416862) · [Play Store](https://play.google.com/store/apps/details?id=com.thepocketkitty.app) |
+| **Idea Vault** | AI-powered idea capture and development | Flutter, OpenAI API | [App Store](https://apps.apple.com/app/id6765999984) |
+| **Mockup Studio** | Free App Store screenshot design tool | HTML, CSS, JS | [Open App](https://mockupstudio.pocketmicros.com) |
+| **Mini API** | Browser-based HTTP request tester | React | [Open App](https://miniapi.pocketmicros.com) |
+
+> All built independently at [Pocket Micros](https://pocketmicros.com), my indie studio.
+
+---
+
+## 🎯 Open Source on pub.dev
+
+> 1,700+ combined downloads across all packages
+
+| Package | Description | Downloads |
+|---|---|---|
+| [**mention_tag_text_field**](https://pub.dev/packages/mention_tag_text_field) | Adds @mention and #tag support to any Flutter TextField | ![Downloads](https://img.shields.io/badge/1%2C400%2B-downloads-brightgreen?style=flat) |
+| [**flutter_ruler_slider**](https://pub.dev/packages/flutter_ruler_slider) | Customizable ruler slider with snapping and tick styling | ![Downloads](https://img.shields.io/badge/178%2B-downloads-brightgreen?style=flat) |
+| [**api_repo**](https://pub.dev/packages/api_repo) | Pluggable API caching layer with configurable cache policies | ![Downloads](https://img.shields.io/badge/61%2B-downloads-brightgreen?style=flat) |
+| [**cached_future_builder_plus**](https://pub.dev/packages/cached_future_builder_plus) | FutureBuilder extended with intelligent caching | ![Downloads](https://img.shields.io/badge/28%2B-downloads-brightgreen?style=flat) |
+| [**flutter_poster_toolkit**](https://pub.dev/packages/flutter_poster_toolkit) | Flutter package for creating posters and flyers | ![Downloads](https://img.shields.io/badge/22%2B-downloads-brightgreen?style=flat) |
+
+---
+
+## 🛠 Stack
+
+```
+Mobile      Flutter · Dart
+Backend     NestJS · Node.js · FastAPI · Django
+Database    Supabase · Firebase
+Real-time   WebSockets · gRPC · Live Location
+AI          OpenAI API
+Web         React · HTML · CSS · JS
+```
+
+---
+
+## ✍️ Writing
+
+I write Flutter technical articles on Medium.
+Read at [medium.com/@mtalha7274](https://medium.com/@mtalha7274)
+
+---
+
+<div align="center">
+
+**mtalha7274@gmail.com**
+
+</div>
